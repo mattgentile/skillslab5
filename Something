@@ -1,0 +1,23 @@
+import java.util.Scanner;
+
+public class Something{
+
+ public static void main(String []args)
+
+ {
+   Scanner scanner = new Scanner(System.in);
+  
+   System.out.println("Enter the name");
+
+   String name = scanner.nextLine();
+
+   System.out.println("Enter your favorite animal");
+
+   String animal=scanner.nextLine();
+
+   
+   System.out.println("Hey" + name + "," + animal + "is a great favorite animal!");
+   
+  
+ }
+}
