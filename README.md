@@ -13,3 +13,7 @@ All that is necessary to install and use this notebook is a copy of jupyter with
 ### Licensing
 
 This software is licensed with the MIT license, chosen specifically for its lax restrictions on software use and development and concise wording.
+
+### Code of Conduct
+
+Please be sure to look over the Code of Conduct provided as it was chosen to highlight our no nonsense policy and detail the rights and wrongs of our open-source project we created. It was also chosen to lay out the responsibilities and goals set forth by us, the project maintainers.
